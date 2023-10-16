@@ -6,3 +6,5 @@ This is a test project made with React + Typescript + Vite. The project is about
 1. Clone the repo.
 2. Run `npm run dev`
 
+<h1>Last board win overview</h1>
+<img src="Snapshot.png"/>
